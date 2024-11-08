@@ -57,7 +57,7 @@ public class TabelaHash2<K, V> {
                 contador++;
                 atual = atual.next;
             }
-            System.out.println("Balde " + i + ": " + contador + " elementos");
+            System.out.println("Indice " + i + ": " + contador + " elementos");
         }
     }
 
