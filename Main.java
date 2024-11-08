@@ -59,6 +59,11 @@ public class Main {
         System.out.println();
 
         tabelaHashPrimaria.printDistribution();
+        tabelaHashPrimaria.printDistribution();
+        System.out.println(" ");
+        System.out.println("Tabela Hash 2: ");
+        tabelaHashSecundaria.printDistribution();
+    }
     }
 
 }
